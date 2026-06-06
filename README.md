@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">Student at the Secondary Technical School of IT in Nova Dubnica🙋‍♂️</h3>
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C++** and **Javascript**
 
 - 📫 How to reach me **alexkonecny40@gmail.com**
 
