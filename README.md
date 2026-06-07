@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">Student at the Secondary Technical School of IT in Nova Dubnica, Slovakia🙋‍♂️</h3>
+<h3 align="center">16 years old student at the Secondary Technical School of IT in Nova Dubnica, Slovakia🙋‍♂️</h3>
 
 - 🌱 I’m currently learning **C++** and **Javascript**
 
